@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yann-Kouton
 - 👀 I’m interested in programation
 - 🌱 I’m currently learning économétrie-statistique
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on tout projet qui concerne l'informatique ou l'économie
 - 📫 How to reach me esmelyann@gmail.com
 
 <!---
