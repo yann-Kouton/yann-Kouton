@@ -2,7 +2,7 @@
 - 👀 I’m interested in programation
 - 🌱 I’m currently learning économétrie-statistique
 - 💞️ I’m looking to collaborate on tout projet qui concerne l'informatique ou l'économie
-- 📫 How to reach me esmelyann@gmail.com
+- 📫 How to reach me yannovignon@gmail.com
 
 <!---
 yann-Kouton/yann-Kouton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
