@@ -14,4 +14,5 @@ Je suis un **Data Scientist et Développeur** passionné par la résolution de p
 ### Comment me contacter
 *   *esmelyann@gmail.com*
 *   *www.linkedin.com/in/vignon-esmel-kouton-5113a1284*
-*   *+225 05 05 41 19 90*
+*   *+225 0716745206*
+*   *+225 0505411990*
